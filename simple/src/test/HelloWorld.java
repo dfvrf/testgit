@@ -3,9 +3,10 @@ package test;
 	
 	
 public class HelloWorld {
-	String[] names={"Name1","Name2","Name3"};
+
+	String[] names={"Name1","Name2"};
 	
 	static{
-		System.out.println("Hello from developer");
+		System.out.println("Hello from developer again");
 	}
 }
